@@ -70,4 +70,3 @@ streamlit run app.py
 ## Author
 
 **Shaurya Verma**
-GitHub / LinkedIn (add your links)
